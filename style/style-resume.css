@@ -1,0 +1,51 @@
+/*nav bar css*/
+a{
+  padding: 1rem 2rem;
+;
+}
+
+nav{
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 15%);
+}
+
+nav a{
+  border-color: black;
+  background-color: blue;
+  border-width: 1px;
+  color: black;
+  border-style: solid;
+  font-weight: bold;
+}
+
+.container{
+margin-left: 0;
+width:937px;
+background-color: red;
+margin: auto;
+}
+
+.col-sm-8{
+  text-align: left;
+  width: auto;
+}
+h1.col-sm-5{
+  font-weight: bold;
+  text-align: left;
+}
+
+/*nav bar css*/
+
+iframe.Doc1{
+  display: block;
+  margin: 0 auto;
+  height: 1000px;
+  width: 700px;
+}
+.resume-embed{
+  background-color: black;
+}

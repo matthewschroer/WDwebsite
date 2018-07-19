@@ -1,0 +1,95 @@
+/*nav bar css*/
+a{
+  padding: 1rem 2rem;
+;
+}
+
+nav{
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 15%);
+}
+
+nav a{
+  border-color: black;
+  background-color: blue;
+  border-width: 1px;
+  color: black;
+  border-style: solid;
+  font-weight: bold;
+}
+
+h1.col-sm-5{
+  font-weight: bold;
+  text-align: left;
+}
+.container{
+margin-left: 0;
+width:937px;
+background-color: red;
+margin: auto;
+}
+
+.col-sm-8{
+  text-align: left;
+  width: auto;
+}
+
+/*nav bar css*/
+
+p{
+  text-align: center;
+}
+
+.jumbotron{
+  height: 500px;
+  width: 937px;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  background-image: image();
+}
+
+body{
+  background-color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.jumbotron h1{
+  font-size: 100px;
+  font-weight: bold;
+  width: 937px;
+  height: 100px;
+  text-align: center;
+  background-color: blue;
+  margin-bottom: 0;
+}
+
+.jumbotron h2{
+  font-weight: bold;
+  width: 937px;
+  height: 50px;
+  text-align: center;
+  background-color: blue;
+  margin-top: 0;
+}
+
+.discription p{
+  text-align: center;
+  width: 937px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 15%);
+  background-color: white;
+}
