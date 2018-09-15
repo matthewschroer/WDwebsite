@@ -93,3 +93,6 @@ body{
   transform: translate(-50%, 15%);
   background-color: white;
 }
+img {
+  max-width: 100%
+}
